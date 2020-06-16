@@ -1,0 +1,2 @@
+enrichment numbers = 2
+enrichment rate = 0.006667

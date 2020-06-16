@@ -1,0 +1,2 @@
+enrichment numbers = 385
+enrichment rate = 0.430168

@@ -1,0 +1,2 @@
+enrichment numbers = 217
+enrichment rate = 0.485459

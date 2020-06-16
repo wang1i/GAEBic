@@ -1,0 +1,84 @@
+The 1th bicluster:
+	row_pattern:	10	11	82	193	354	408	453	457	
+	col_pattern:	639	1289	410	517	591	600	614	635	
+The 2th bicluster:
+	row_pattern:	10	11	193	354	408	453	457	
+	col_pattern:	635	1289	410	517	591	600	603	639	
+The 3th bicluster:
+	row_pattern:	10	11	193	354	408	453	457	
+	col_pattern:	600	1289	410	517	591	635	639	645	
+The 4th bicluster:
+	row_pattern:	10	11	193	354	408	453	457	
+	col_pattern:	600	639	410	517	591	614	635	1289	
+The 5th bicluster:
+	row_pattern:	15	16	71	205	365	568	
+	col_pattern:	494	1382	199	221	284	304	366	404	
+The 6th bicluster:
+	row_pattern:	15	16	71	205	365	568	
+	col_pattern:	199	1382	284	304	366	404	409	494	
+The 7th bicluster:
+	row_pattern:	15	16	71	205	365	568	
+	col_pattern:	199	404	284	304	366	494	500	1382	
+The 8th bicluster:
+	row_pattern:	10	11	82	193	354	408	453	457	
+	col_pattern:	517	639	410	591	600	635	1289	
+The 9th bicluster:
+	row_pattern:	10	11	82	83	84	193	354	408	453	457	
+	col_pattern:	410	1289	517	591	600	635	639	
+The 10th bicluster:
+	row_pattern:	10	11	82	83	84	193	354	408	453	457	
+	col_pattern:	591	1289	517	600	635	639	
+The 11th bicluster:
+	row_pattern:	10	11	82	193	354	408	453	457	
+	col_pattern:	591	639	517	600	635	1289	
+The 12th bicluster:
+	row_pattern:	82	83	84	193	
+	col_pattern:	72	1289	410	517	591	600	
+The 13th bicluster:
+	row_pattern:	269	353	355	356	
+	col_pattern:	627	628	505	662	663	
+The 14th bicluster:
+	row_pattern:	208	352	353	355	356	
+	col_pattern:	606	1943	397	1277	1373	
+The 15th bicluster:
+	row_pattern:	10	11	82	83	84	193	354	408	453	457	
+	col_pattern:	517	591	600	635	1289	
+The 16th bicluster:
+	row_pattern:	10	11	82	193	354	408	453	457	
+	col_pattern:	410	639	600	635	1289	
+The 17th bicluster:
+	row_pattern:	20	202	237	344	475	522	523	524	525	526	527	
+	col_pattern:	4560	4573	4379	4392	
+The 18th bicluster:
+	row_pattern:	237	344	475	522	523	524	525	526	527	
+	col_pattern:	4392	4573	4379	4560	
+The 19th bicluster:
+	row_pattern:	208	352	353	355	356	
+	col_pattern:	1277	1943	397	1373	
+The 20th bicluster:
+	row_pattern:	472	473	489	490	
+	col_pattern:	1204	1564	1350	1587	
+The 21th bicluster:
+	row_pattern:	15	16	41	71	199	205	291	344	364	365	527	568	614	
+	col_pattern:	756	780	579	615	
+The 22th bicluster:
+	row_pattern:	208	352	353	355	356	
+	col_pattern:	688	770	505	709	
+The 23th bicluster:
+	row_pattern:	15	16	71	205	291	364	365	527	568	614	
+	col_pattern:	615	780	579	756	
+The 24th bicluster:
+	row_pattern:	15	16	71	205	272	291	364	365	527	568	614	
+	col_pattern:	579	615	756	780	
+The 25th bicluster:
+	row_pattern:	352	353	355	356	
+	col_pattern:	493	641	1373	1943	
+The 26th bicluster:
+	row_pattern:	483	484	493	494	
+	col_pattern:	257	322	127	248	
+The 27th bicluster:
+	row_pattern:	538	539	540	541	
+	col_pattern:	219	306	81	546	
+The 28th bicluster:
+	row_pattern:	353	355	356	582	
+	col_pattern:	141	180	169	181	

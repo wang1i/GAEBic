@@ -1,0 +1,2 @@
+enrichment numbers = 345
+enrichment rate = 0.503650

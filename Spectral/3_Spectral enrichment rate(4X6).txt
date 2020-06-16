@@ -1,0 +1,2 @@
+enrichment numbers = 0
+enrichment rate = 0.000000

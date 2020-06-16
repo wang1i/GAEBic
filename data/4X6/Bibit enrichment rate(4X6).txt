@@ -1,0 +1,2 @@
+enrichment numbers = 156
+enrichment rate = 0.367925

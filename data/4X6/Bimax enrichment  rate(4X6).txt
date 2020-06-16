@@ -1,0 +1,2 @@
+enrichment numbers = 413
+enrichment rate = 0.467195
